@@ -9,8 +9,17 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BalbinoVitor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BalbinoVitor&layout=compact&langs_count=8&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BalbinoVitor&theme=tokyonight">
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BalbinoVitor&theme=tokyonight">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BalbinoVitor&theme=tokyonight">
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BalbinoVitor&theme=tokyonight">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BalbinoVitor&theme=tokyonight">
 </p>
 
 <p align="center">
