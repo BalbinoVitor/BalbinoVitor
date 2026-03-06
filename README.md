@@ -1,51 +1,37 @@
-# 👋 Hi, I'm Vitor Balbino
+<h1 align="center">Hi 👋, I'm Vitor Balbino</h1>
 
-🚀 **Senior Fullstack & Intelligent Automation Engineer**  
-💡 Specialized in **RPA, Data Systems, and Scalable Backend Architectures**  
-🌍 **Actively seeking opportunities in the Netherlands (Visa Sponsorship)**  
-
----
-
-## 📊 GitHub Analytics
+<h3 align="center">
+Senior Fullstack Engineer • Intelligent Automation • Scalable Systems
+</h3>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BalbinoVitor&theme=tokyonight">
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BalbinoVitor&theme=tokyonight">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BalbinoVitor&theme=tokyonight">
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BalbinoVitor&theme=tokyonight">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BalbinoVitor&theme=tokyonight">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BalbinoVitor&theme=tokyonight"/>
+🚀 Building high-impact automation systems and scalable platforms <br>
+🌍 Open to <b>Senior opportunities in the Netherlands (Visa Sponsorship)</b>
 </p>
 
 ---
 
 # 🧠 About Me
 
-I build **high-impact automation systems and scalable web platforms** combining:
+I design and build **high-performance systems focused on automation, scalability and real business impact.**
 
-- **Backend Engineering**
-- **RPA & Intelligent Automation**
-- **Data Visualization**
-- **Performance-focused Frontend**
+My work combines:
 
-💼 I have worked on **mission-critical healthcare systems**, developing automation pipelines and monitoring dashboards that improve operational efficiency.
+- ⚙️ **Backend Engineering**
+- 🤖 **RPA & Intelligent Automation**
+- 📊 **Data Visualization & Observability**
+- ⚡ **Performance-focused Frontend**
 
-⚡ My focus is creating **systems that reduce manual work, increase scalability and generate measurable impact.**
+I have experience building **mission-critical systems in healthcare environments**, automating operational workflows and delivering real-time insights for decision making.
+
+💡 My goal is simple:  
+**build systems that eliminate manual work and scale operations efficiently.**
 
 ---
 
 # 🛠 Tech Stack
 
-### Backend
+### Backend & APIs
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -65,58 +51,99 @@ I build **high-impact automation systems and scalable web platforms** combining:
 
 # 🚀 Featured Projects
 
-### 🤖 RPA Orchestrator
-Scalable automation platform for managing and scheduling robots.
+## 🤖 RPA Orchestrator
+Automation platform for managing and scheduling robots.
 
 **Stack**
+
 - FastAPI
 - PostgreSQL
 - Docker
 
 Features:
-- Robot queue management
+
+- Robot queue orchestration
 - Job scheduling
-- Monitoring dashboards
+- Execution monitoring
+- Automation management APIs
 
 ---
 
-### 📊 Healthcare Data Dashboard
-Real-time monitoring system used for operational decision making.
+## 📊 Healthcare Data Dashboard
+
+Real-time operational monitoring system for healthcare processes.
 
 **Stack**
+
 - Next.js
 - Grafana
-- API integrations
+- REST APIs
 
 Features:
-- Live metrics
-- Healthcare process monitoring
-- Operational insights
+
+- Live operational metrics
+- Process monitoring
+- Performance insights
 
 ---
 
-### ⚡ TikTok Automation Pipeline
-High-performance system for automated data ingestion and analytics.
+## ⚡ Automation Data Pipeline
+
+High-performance data ingestion and automation pipeline.
 
 **Stack**
+
 - Python
 - APIs
-- Automation pipelines
+- Task automation
 
 Features:
-- Data collection
-- Data processing
-- Scalable architecture
+
+- Data extraction pipelines
+- Processing workflows
+- Scalable ingestion architecture
 
 ---
 
-# 🌍 Career Goals
+# 📊 GitHub Analytics
 
-I’m currently focused on:
+<p align="center">
 
-- Senior **Backend / Fullstack Engineering roles**
-- **Automation Engineering**
-- Companies that sponsor **Highly Skilled Migrant Visa in the Netherlands**
+<img src="https://github-readme-stats.vercel.app/api?username=BalbinoVitor&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BalbinoVitor&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=BalbinoVitor&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BalbinoVitor&theme=tokyo-night"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BalbinoVitor&theme=tokyonight">
+
+</p>
+
+---
+
+# 🌍 Career Focus
+
+Currently looking for:
+
+- **Senior Backend Engineer**
+- **Senior Fullstack Engineer**
+- **Automation / RPA Engineer**
+
+Preferably in companies that sponsor the **Highly Skilled Migrant Visa in the Netherlands.**
 
 ---
 
@@ -132,4 +159,4 @@ I’m currently focused on:
 
 ---
 
-⭐ *If you find my projects interesting, feel free to explore and contribute.*
+⭐ If you find my work interesting, feel free to explore my repositories.
