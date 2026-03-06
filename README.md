@@ -1,14 +1,12 @@
 # Hi there, I'm Vitor Balbino 👋
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BalbinoVitor&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BalbinoVitor&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BalbinoVitor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BalbinoVitor&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BalbinoVitor&layout=compact&langs_count=7&theme=tokyonight" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BalbinoVitor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BalbinoVitor&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ### 🛠 My Intelligence Stack
@@ -23,15 +21,15 @@
 
 ### 🤖 Intelligent Automation & Fullstack Engineering
 - 🇳🇱 **Relocation Focus:** Actively seeking Senior opportunities in the Netherlands (Recognized Sponsors).
-- 🏥 **High Impact:** Developed critical RPA orchestration and data visualization for major healthcare institutions (Grafana + PostgreSQL).
+- 🏥 **High Impact:** Developed critical RPA orchestration and data visualization for major healthcare institutions (Santa Casa project).
 - 🧠 **Neurocommunication:** Applying psychological triggers to UX/UI design for better conversion and user efficiency.
 
 ---
 
-### ⚡ Activity Overview
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BalbinoVitor&theme=tokyonight" alt="GitHub Streak" />
-</p>
+### 🌟 Featured Projects
+- **[RPA Orchestrator]** - Scalable backend for robot management using **FastAPI** and **PostgreSQL**.
+- **[Health Data Dashboard]** - Real-time monitoring system built with **Next.js** and **Grafana**.
+- **[TikTok API Automation]** - High-performance data ingestion pipeline in **Python**.
 
 ---
 
